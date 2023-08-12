@@ -1,6 +1,7 @@
-# netflix-homepage-with-html-and-css
+# netflix homepage
+
 # Made with
-HTML CSS JavaScript
+HTML CSS 
 
 # Screenshot
 ![image](https://github.com/harshi2111/netflix-homepage-with-html-and-css/assets/141211240/8691ad2e-5834-4c56-98e1-879006ef2be6)
